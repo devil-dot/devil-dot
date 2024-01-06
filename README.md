@@ -14,15 +14,14 @@
 
 ## 📖 About me
 
-* 🎓 I’m a Computer Science student (graduating in December 2023)
 * 📱 I’m currently working on Android Apps
 * 🎨 I'm a self-taught Android Developer
-* 🤔 I use daily Java,Android Studio
-* 🌱 I’m currently learning Firebase, MVVM, Rest API.
+* 🤔 I use daily Java,Kotlin, Android Studio
+* 🌱 I’m currently learning Firebase, MVVM, and Rest API.
 * 🤔 I’m looking for help with 𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜
 * 👯 I’m looking to collaborate with Android Developers.
 * 😄 Pronouns: He/Him
-* 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+* 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 
 <h5><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em></h5>
@@ -33,18 +32,18 @@
 <br>
 <h3>🌱 Challenges that I’m currently challenging myself: </h3>
 
-Since the world is in the quarantine stage🌏, and I’m having lots of spare time⌚, I decided to take this time focusing on feeding more knowledge📚 to myself. I set a couple of self-challenges in order to push myself more further.🏃<br>
+Since the world is in the quarantine stage🌏, and I have lots of spare time⌚, I decided to take this time to focus on feeding more knowledge📚 to myself. I set a couple of self-challenges to push myself further.🏃<br>
 
-Learn to code👨‍💻 3-4 hours a day with no distraction ( One or two day off a week. )<br>
+Learn to code👨‍💻 3-4 hours a day with no distraction ( One or two days off a week. )<br>
 Read📰 Android development articles daily.<br>
-Avoid spending too much time on Youtube Entertainment☠️<br>
-Adapting the minimalism life style
+Avoid spending too much time on YouTube Entertainment☠️<br>
+Adapting the minimalist life style
 🔜
 
 
  ###  Languages & Tools I Know... : <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub. -->
   </a>
  <!-- icons -->
   <br>
