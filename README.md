@@ -45,7 +45,7 @@ I'm a **solo Android developer and app entrepreneur** building and shipping nati
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[Halo Network](#)** | Live on Google Play — a mobile mining app, currently time-based with a blockchain-based model planned next. Actively working on ASO and ad-policy compliance. | Kotlin, Android |
+| **Halo Network** | Live on Google Play — a mobile mining app, currently time-based with a blockchain-based model planned next. Actively working on ASO and ad-policy compliance. | Kotlin, Android |
 | **Potion Sort: Alchemy Puzzle** | First game — a water-sort/color-sort puzzle with an alchemy theme and a "Grimoire" collection unlock mechanic. | Pure Kotlin + Jetpack Compose, MVVM, Hilt, AdMob |
 | **Nib – Resume & CV Builder** | Android resume/CV builder built to beat existing Play Store resume apps on UI/UX and actual value, with a companion admin panel and landing page. | Android, backend admin panel |
 | **Clipsode** | Vertical short-drama streaming app, currently in development. | Kotlin/Compose (Android), NestJS + PostgreSQL + Redis + Cloudflare R2 (backend) |
