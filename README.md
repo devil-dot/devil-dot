@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://github.com/devil-dot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Tareq+Mahmud+%F0%9F%91%8B;Android+Developer+%7C+App+Entrepreneur+%F0%9F%93%B1;Building+Apps+with+AI+Coding+Agents+%E2%9A%A1;From+Idea+%E2%86%92+Play+Store%2C+Solo" alt="Tareq Mahmud Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Tareq+Mahmud+%F0%9F%91%8B;Support+Engineer+by+Day%2C+Android+Dev+by+Night+%F0%9F%92%BB;Building+Apps+with+AI+Coding+Agents+%E2%9A%A1;From+Idea+%E2%86%92+Play+Store%2C+Solo" alt="Tareq Mahmud Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Android Developer &bull; Jetpack Compose &bull; Founder @ KMT Studio</strong>
+    <strong>Level 2 Support Engineer @ Hostever &bull; Android Developer &bull; Founder @ KMT Studio</strong>
   </p>
 
   <!-- Social Badges -->
@@ -31,8 +31,9 @@
 
 ### 🚀 About Me
 
-I'm a **solo Android developer and app entrepreneur** building and shipping native mobile products end-to-end — design, backend, deployment, and growth — under my own studio, **KMT Studio**. I lean heavily on AI coding agents (Claude Code, OpenCode, Antigravity, Gemini CLI, Cursor) to move fast from idea to a live Play Store app, while keeping architecture clean and code maintainable.
+By day, I work as a **Level 2 Support Engineer at Hostever**. Outside of that, I'm a **solo Android developer and app entrepreneur** building and shipping native mobile products end-to-end — design, backend, deployment, and growth — under my own studio, **KMT Studio**. I lean heavily on AI coding agents (Claude Code, OpenCode, Antigravity, Gemini CLI, Cursor) to move fast from idea to a live Play Store app, while keeping architecture clean and code maintainable.
 
+- 🎧 **Day Job:** Level 2 Support Engineer at Hostever — troubleshooting, technical support, escalations.
 - 📱 **Primary Focus:** Native Android with **Kotlin** + **Jetpack Compose**, MVVM/MVI, Clean Architecture.
 - 🏗️ **Full-Stack Capable:** NestJS, PostgreSQL, Prisma, Redis, Firebase — I build and run the backends behind my own apps.
 - ☁️ **Infra:** Self-manage production infrastructure on a Hetzner VPS using **Coolify** as a self-hosted PaaS.
