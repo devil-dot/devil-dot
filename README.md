@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://github.com/devil-dot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Tareq+Mahmud+%F0%9F%91%8B;Android+Developer+%7C+Mobile+Engineer+%F0%9F%93%B1;Building+Resilient%2C+Modern+Android+Apps+%E2%9A%A1;Crafting+Clean+Code+%26+Seamless+Experiences" alt="Tareq Mahmud Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Tareq+Mahmud+%F0%9F%91%8B;Android+Developer+%7C+App+Entrepreneur+%F0%9F%93%B1;Building+Apps+with+AI+Coding+Agents+%E2%9A%A1;From+Idea+%E2%86%92+Play+Store%2C+Solo" alt="Tareq Mahmud Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Mobile Application Engineer &bull; Modern Android & Jetpack Compose &bull; Tech Enthusiast</strong>
+    <strong>Android Developer &bull; Jetpack Compose &bull; Founder @ KMT Studio</strong>
   </p>
 
   <!-- Social Badges -->
@@ -31,17 +31,31 @@
 
 ### 🚀 About Me
 
-Experienced and passionate **Android Developer** focused on engineering scalable, performant, and delightful native mobile experiences. I believe strongly in clean architecture, defensive programming, and building software that is easy to evolve.
+I'm a **solo Android developer and app entrepreneur** building and shipping native mobile products end-to-end — design, backend, deployment, and growth — under my own studio, **KMT Studio**. I lean heavily on AI coding agents (Claude Code, OpenCode, Antigravity, Gemini CLI, Cursor) to move fast from idea to a live Play Store app, while keeping architecture clean and code maintainable.
 
-- 📱 **Primary Focus:** Native Android engineering with **Kotlin**, **Jetpack Compose**, and modern architecture.
-- 🏛️ **Architecture & Standards:** Clean Architecture, MVI / MVVM (Unidirectional Data Flow), StateFlow & Coroutines, Modularization.
-- ⚙️ **Ecosystem & Cloud:** Firebase suite, RESTful APIs, SQLite/Room, Linux server deployments & automation.
-- 💡 **Philosophy:** *The Pragmatic Programmer* principles — DRY, ETC (Easier To Change), and leaving every codebase cleaner than I found it.
-- 🤝 **Collaboration:** Open to collaborating on innovative mobile apps, high-impact open-source projects, and engineering challenges.
+- 📱 **Primary Focus:** Native Android with **Kotlin** + **Jetpack Compose**, MVVM/MVI, Clean Architecture.
+- 🏗️ **Full-Stack Capable:** NestJS, PostgreSQL, Prisma, Redis, Firebase — I build and run the backends behind my own apps.
+- ☁️ **Infra:** Self-manage production infrastructure on a Hetzner VPS using **Coolify** as a self-hosted PaaS.
+- 🤖 **AI-Native Workflow:** Ship production apps using AI coding agents/CLIs, with full technical documentation (PRDs, architecture, API specs) written to hand off cleanly to those agents.
+- 💰 **Business Side:** Handle ASO, monetization (ads/IAP/subscriptions), and growth for everything I build — not just the code.
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🛠️ Featured Projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Halo Network](#)** | Live on Google Play — a mobile mining app, currently time-based with a blockchain-based model planned next. Actively working on ASO and ad-policy compliance. | Kotlin, Android |
+| **Potion Sort: Alchemy Puzzle** | First game — a water-sort/color-sort puzzle with an alchemy theme and a "Grimoire" collection unlock mechanic. | Pure Kotlin + Jetpack Compose, MVVM, Hilt, AdMob |
+| **Nib – Resume & CV Builder** | Android resume/CV builder built to beat existing Play Store resume apps on UI/UX and actual value, with a companion admin panel and landing page. | Android, backend admin panel |
+| **Clipsode** | Vertical short-drama streaming app, currently in development. | Kotlin/Compose (Android), NestJS + PostgreSQL + Redis + Cloudflare R2 (backend) |
+| **NicheScope** | Internal tool that automates Google Play competitor research — keyword search, market summaries, sortable results. | NestJS, PostgreSQL/Prisma, google-play-scraper, Docker on Coolify |
+
+> Most of these ship with a full internal doc set (PRD, architecture, API spec, DB schema, deployment guide) written specifically so AI coding agents can build against them.
+
+---
+
+### 🧰 Tech Stack & Toolbox
 
 <div align="center">
 
@@ -52,7 +66,7 @@ Experienced and passionate **Android Developer** focused on engineering scalable
 
 #### ☁️ Backend, Cloud & Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite,postgres,py" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nestjs,firebase,postgres,sqlite,redis,docker" alt="Backend Stack" />
 </a>
 
 #### 💻 Environment, DevOps & Tools
@@ -73,7 +87,9 @@ Experienced and passionate **Android Developer** focused on engineering scalable
 | **Android Core** | Kotlin, Java, Jetpack Compose, XML layouts, Android SDK, Gradle KTS |
 | **Architecture** | MVI / MVVM, Clean Architecture, Repository Pattern, Dependency Injection (Hilt / Koin) |
 | **Async & Data** | Kotlin Coroutines, Flow / StateFlow, Room DB, Retrofit, OkHttp, DataStore |
-| **Cloud & Backend** | Firebase (Auth, Firestore, Cloud Messaging, Crashlytics), REST APIs |
+| **Backend** | NestJS, PostgreSQL, Prisma, Redis, Cloudflare R2, REST APIs |
+| **Cloud & Services** | Firebase (Auth, Firestore, Cloud Messaging, Crashlytics), AdMob, Coolify (self-hosted PaaS on Hetzner) |
+| **AI-Assisted Dev** | Claude Code, OpenCode, Antigravity, Gemini CLI, Cursor |
 | **Tooling & OS** | Linux, Bash scripting, Git version control, CI/CD workflows, Postman |
 
 </details>
@@ -106,14 +122,6 @@ Experienced and passionate **Android Developer** focused on engineering scalable
   </a>
 
 </div>
-
----
-
-### 🌟 Featured Highlights
-
-- 🏢 **KMT Studio:** Engineering specialized software tools, apps, and digital platforms.
-- ⚡ **Performance & Quality:** Emphasizing defensive resilience, smooth 60/120fps UI rendering, and rock-solid state management.
-- 🧪 **Continuous Improvement:** Always learning, adopting cutting-edge tools, and staying updated with modern Android trends.
 
 ---
 
